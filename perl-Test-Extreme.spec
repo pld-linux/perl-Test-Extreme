@@ -9,7 +9,7 @@ Summary:	Test::Extreme - a perlish unit testing framework
 Summary(pl):	Test::Extreme - perlowy szkielet do testowania w stylu unit
 Name:		perl-Test-Extreme
 Version:	0.12
-Release:	2
+Release:	3
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
