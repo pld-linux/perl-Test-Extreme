@@ -3,8 +3,8 @@
 %bcond_without	tests	# do not perform "make test"
 #
 %include	/usr/lib/rpm/macros.perl
-%define	pdir	Test
-%define	pnam	Extreme
+%define		pdir	Test
+%define		pnam	Extreme
 Summary:	Test::Extreme - a perlish unit testing framework
 Summary(pl):	Test::Extreme - perlowy szkielet do testowania w stylu unit
 Name:		perl-Test-Extreme
