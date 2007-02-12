@@ -6,7 +6,7 @@
 %define		pdir	Test
 %define		pnam	Extreme
 Summary:	Test::Extreme - a perlish unit testing framework
-Summary(pl):	Test::Extreme - perlowy szkielet do testowania w stylu unit
+Summary(pl.UTF-8):   Test::Extreme - perlowy szkielet do testowania w stylu unit
 Name:		perl-Test-Extreme
 Version:	0.12
 Release:	3
@@ -26,10 +26,10 @@ in the spirit of JUnit, the unit testing framework for Java, by Kent
 Beck and Erich Gamma. Instead of porting the implementation of JUnit
 we have ported its spirit to Perl.
 
-%description -l pl
-Test::Extreme to perlowy port szkieletu testuj±cego xUnit. Jest w
+%description -l pl.UTF-8
+Test::Extreme to perlowy port szkieletu testujÄ…cego xUnit. Jest w
 duchu JUnit, szkieletu testowego dla Javy, autorstwa Kenta Becka i
-Ericha Gammy. Zamiast portowania implementacji Junit zosta³ sportowany
+Ericha Gammy. Zamiast portowania implementacji Junit zostaÅ‚ sportowany
 do Perla jego duch.
 
 %prep
