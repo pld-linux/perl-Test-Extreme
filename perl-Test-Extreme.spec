@@ -6,7 +6,7 @@
 %define		pdir	Test
 %define		pnam	Extreme
 Summary:	Test::Extreme - a perlish unit testing framework
-Summary(pl.UTF-8):   Test::Extreme - perlowy szkielet do testowania w stylu unit
+Summary(pl.UTF-8):	Test::Extreme - perlowy szkielet do testowania w stylu unit
 Name:		perl-Test-Extreme
 Version:	0.12
 Release:	3
