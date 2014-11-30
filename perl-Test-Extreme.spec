@@ -1,10 +1,10 @@
 #
 # Conditional build:
 %bcond_without	tests	# do not perform "make test"
-#
-%include	/usr/lib/rpm/macros.perl
+
 %define		pdir	Test
 %define		pnam	Extreme
+%include	/usr/lib/rpm/macros.perl
 Summary:	Test::Extreme - a perlish unit testing framework
 Summary(pl.UTF-8):	Test::Extreme - perlowy szkielet do testowania w stylu unit
 Name:		perl-Test-Extreme
@@ -15,6 +15,7 @@ License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
 # Source0-md5:	008505ccc3d31a46cc89dc5883ba2d14
+URL:		http://search.cpan.org/dist/Test-Extreme/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
 BuildArch:	noarch
