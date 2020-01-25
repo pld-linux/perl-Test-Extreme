@@ -4,7 +4,6 @@
 
 %define		pdir	Test
 %define		pnam	Extreme
-%include	/usr/lib/rpm/macros.perl
 Summary:	Test::Extreme - a perlish unit testing framework
 Summary(pl.UTF-8):	Test::Extreme - perlowy szkielet do testowania w stylu unit
 Name:		perl-Test-Extreme
